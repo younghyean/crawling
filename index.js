@@ -39,6 +39,4 @@ await browser.close();
       console.error(e);
   }
 }
-
-
 crawler();
